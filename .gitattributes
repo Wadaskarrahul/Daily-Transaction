@@ -1,0 +1,19 @@
+# Ensure consistent line endings across systems
+# Use LF for all text files
+
+# Jupyter Notebooks
+*.ipynb text eol=lf
+
+# Common source code files
+*.py     text eol=lf
+*.md     text eol=lf
+*.csv    text eol=lf
+*.json   text eol=lf
+*.yml    text eol=lf
+*.yaml   text eol=lf
+*.html   text eol=lf
+*.css    text eol=lf
+*.js     text eol=lf
+
+# Treat everything else as binary (optional)
+* -text
