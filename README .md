@@ -20,3 +20,7 @@ This project provides a detailed analysis of daily transaction data using Python
 - NumPy
 
 ## Screenshots
+
+![Daily Expense Over Time](images/datily_transaction_1.PNG)
+![Top 10 Expense Category](images/daily_transaction_2.PNG)
+![Top 15 Expense Subcategory](images/daily_transaction_3.PNG)
